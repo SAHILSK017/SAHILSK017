@@ -91,7 +91,7 @@ const sahil = {
 <td width="50%">
 
 ### 📦 Backtrace — Lost & Found System
-[![Live](https://img.shields.io/badge/Live-Demo-3fb950?style=flat-square&logo=vercel)](https://backtracsk.vercel.app/)
+[![Live](https://img.shields.io/badge/Live-Demo-3fb950?style=flat-square&logo=vercel)](https://backtracesk.vercel.app/)
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/SAHILSK017/Backtrace)
 
 > Full-stack MERN application for reporting, searching & managing lost/found items.
