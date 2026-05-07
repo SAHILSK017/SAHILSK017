@@ -18,6 +18,8 @@
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-3fb950?style=flat-square&logo=vercel&logoColor=white)](https://myportfolio-three-delta-69.vercel.app/)
 
+</div>
+
 ---
 
 ## 👨‍💻 &nbsp;About Me
