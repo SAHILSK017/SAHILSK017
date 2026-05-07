@@ -12,19 +12,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2182FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Building+Full+Stack+Projects+%F0%9F%92%BB;Learning+Backend+%7C+APIs+%7C+System+Design;Focused+on+Scalable+Web+Apps+%E2%9A%A1)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SAHILSK017&label=Profile+Views&color=2182ff&style=flat-square" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/SAHILSK017">
-    <img src="https://img.shields.io/github/followers/SAHILSK017?label=Followers&style=flat-square&color=2182ff" />
-  </a>
-
-  <a href="https://myportfolio-three-delta-69.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-3fb950?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=SAHILSK017&label=Profile+Views&color=2182ff&style=flat-square" alt="profile views" />
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/SAHILSK017?label=Followers&style=flat-square&color=2182ff)](https://github.com/SAHILSK017)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-3fb950?style=flat-square&logo=vercel&logoColor=white)](https://myportfolio-three-delta-69.vercel.app/)
 
 ---
 
